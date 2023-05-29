@@ -64,7 +64,7 @@
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Services</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">What I do for you</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">My Expertise</h3>
             <div class="row">
                 
                     
@@ -97,30 +97,26 @@
 
 <section class="w3l-stats py-lg-5 py-4" id="stats">
     <div class="gallery-inner container py-md-5 py-4">
-        <div class="row stats-con">
-            <div class="col-sm-3 col-6 stats_info counter_grid">
+        <div class="row justify-content-center stats-con">
+            <div class="col-sm-3 col-6 stats_info counter_grid text-center">
                 <span class="fa fa-laptop"></span>
-                <p >{{data.main.workabout.completedproject}}</p>
+                <p>{{data.main.workabout.completedproject}}</p>
                 <h4>Completed projects</h4>
             </div>
-            <div class="col-sm-3 col-6 stats_info counter_grid1">
+            <div class="col-sm-3 col-6 stats_info counter_grid1 text-center">
                 <span class="fa fa-hourglass-end"></span>
-                <p >{{data.main.workabout.inprogressproject}}</p>
+                <p>{{data.main.workabout.inprogressproject}}</p>
                 <h4>In processes</h4>
             </div>
-            <div class="col-sm-3 col-6 stats_info counter_grid mt-sm-0 mt-5">
+            <div class="col-sm-3 col-6 stats_info counter_grid mt-sm-0 mt-5 text-center">
                 <span class="fa fa-gift"></span>
-                <p >{{data.main.workabout.awardrecived}}</p>
+                <p>{{data.main.workabout.awardrecived}}</p>
                 <h4>Awards Received</h4>
-            </div>
-            <div class="col-sm-3 col-6 stats_info counter_grid2 mt-sm-0 mt-5">
-                <span class="fa fa-smile-o"></span>
-                <p >{{data.main.workabout.happyclinet}}</p>
-                <h4>Happy Clients</h4>
             </div>
         </div>
     </div>
 </section>
+
 
 
 <section class="w3l-clients" id="clients">
@@ -129,7 +125,7 @@
         <div class="container py-lg-5 py-md-4">
             <div class="heading text-center mx-auto">
                 <h6 class="title-small text-center">Testimonials</h6>
-                <h3 class="title-big mb-md-5 mb-4">What my clients think about Me </h3>
+                <h3 class="title-big mb-md-5 mb-4">What my referral say about Me </h3>
             </div>
            
             <div class="testimonial-width">
@@ -190,7 +186,7 @@
  <section class="w3l-grid-quote text-center py-5">
    <div class="container py-3">
      <h6 class="title-small">Get in touch</h6>
-     <h3 class="title-big mb-md-5 mb-4">Let's start a Project! Hire Me.</h3>
+     <h3 class="title-big mb-md-5 mb-4">Let's start to Work! Contact Me.</h3>
      <router-link to="/contact" class="btn btn-style btn-primary mr-2">Hire Me </router-link>
      <router-link to="/contact" class="btn btn-style btn-outline-primary">Get in touch</router-link>
    </div>

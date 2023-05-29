@@ -62,7 +62,7 @@
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Services</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">What I do for you</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">What I Can Offer</h3>
             <div class="row">
                 
                     

@@ -1,65 +1,59 @@
 {
     "main": {
-        "name": "Baizid MD Ashadzzaman",
-        "shortname": "Zaman",
-        "occupation": "Developer / Programmer / Engineer",
-        "description": "Eat, sleep, code, repeat.",
-        "yearofexperience": "05",
-        "age": "25",
-        "designation": "Software engineer",
-        "image": "/images/photo.png",
-        "fullimage": "/images/myphoto1.jpg",
-        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
-        "contactmessage": "Get in touch with me to to build any software for your business.!",
-        "email": "baizid.md.ashadzzaman@gmail.com",
-        "phone": "+88 01862420119",
-        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
+        "name": "Richie Kid Novell",
+        "shortname": "Richie",
+        "occupation": "Data Scientist / Data Engineer / Data Analyst",
+        "description": "Data Professional adept at creating and migrating databases for web apps. In a key project, I built a database from scratch, chose the data types and framework, merged tables, and moved it to the cloud. I also compiled and cleaned the data, conducted EDA, and created a dashboard from scratch, enhancing stakeholder understanding. Passionate about web scraping side projects to explore interests like self developmement, entrepreneurship, and health",
+        "yearofexperience": "1",
+        "age": "21",
+        "designation": "Data Scientist",
+        "image": "/images/richiephoto.png",
+        "fullimage": "/images/richiephoto8.png",
+        "bio": "Hi! I'm a Data Professional experienced in creating and migrating databases for web apps. I began my journey as a junior data engineer in the agriculture industry, which evolved into roles as a data analyst and data scientist. Currently, I freelance as a data engineer, helping companies establish their data architecture. My dream is to become an expert data scientist and uncover tons of valuable insights. That's why I'm actively seeking a junior data science position at a reputable company to further my journey towards this goal! Passionate about self-development, entrepreneurship, and health, I thrive on turning data into valuable insights. Let's collaborate and embark on an exciting data-driven journey together!",
+        "contactmessage": "Contact me to discuss how I can help you leverage the power of data science and analysis to drive insights and growth for your business!",
+        "email": "kidnovell.richie@gmail.com",
+        "phone": "+60 149240816",
+        "mapaddress": "https://www.google.com/maps/d/embed?mid=1lkoFQo5iD_LMDCG0abi4_fD_pYI&hl=en_US&ehbc=2E312F",
         "address": {
-            "street": "Pahartoli 12 quater",
-            "city": "Chittagong",
-            "state": "Bangladesh",
-            "zip": "4202"
+            "street": "Jalan Kerinchi Kiri 2",
+            "city": "Kuala Lumpur",
+            "state": "Kuala Lumpur",
+            "zip": "59200"
         },
         "quotes1": {
             "sectiontitle": "My resume",
-            "title": "I Would Love to make your Ideas real",
-            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+            "title": "Empowering Better Decision-Making with the Power of Data and Statistics",
+            "description": "Unlocking success through data-driven decisions. With expertise in data analysis and statistical techniques, I empower better decision-making by revealing valuable insights. Let's collaborate on your projects, leveraging the power of data and statistics to drive impactful outcomes. Together, we'll harness the wealth of information available to make informed choices and achieve your goals. Reach out to explore the possibilities of data-driven success and maximize your potential."
         },
         "quotes2": {
             "sectiontitle": "",
-            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
-            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
+            "title": "In a world overflowing with data it's time to uncover insights to drive innovation and informed decisions.",
+            "description": "As a data scientist, I possess the expertise to analyze complex datasets, apply advanced techniques, and build predictive models. With a passion for problem-solving and a curious mindset, I extract valuable insights from data to enable informed decision-making and fuel innovation. I am dedicated to leveraging the power of data to drive success and create positive impact."
         },
         "workabout": {
-            "completedproject": "100",
-            "inprogressproject": "20",
-            "awardrecived": "15",
-            "happyclinet": "100"
+            "completedproject": "5",
+            "inprogressproject": "2",
+            "awardrecived": "3"
         },
-        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "resumedownload": "https://drive.google.com/file/d/10-sUplzAskZpRYZFYAIrEO1t400HDwdl/view?usp=sharing",
         "social": [{
                 "name": "youtube",
-                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
+                "url": "https://youtube.com/@richiekidnovell7801",
                 "className": "fa fa-youtube"
             },
             {
-                "name": "facebook",
-                "url": "https://www.facebook.com/asadzaman0167",
-                "className": "fa fa-facebook"
-            },
-            {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/zamanasad/",
+                "url": "https://www.linkedin.com/in/richiekidenovell/",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "instagram",
-                "url": "https://www.instagram.com/iamasadzaman/",
+                "url": "https://www.instagram.com/richienv/",
                 "className": "fa fa-instagram"
             },
             {
                 "name": "github",
-                "url": "https://github.com/Baizidmdashadzzaman",
+                "url": "https://github.com/richiekidnovell",
                 "className": "fa fa-github"
             }
         ]
@@ -67,72 +61,90 @@
     "resume": {
         "skillmessage": "My Programming Language Proficiency",
         "education": [{
-            "school": "International Islamic University Chittagong.",
-            "degree": "Bachelor's Degree, Computer Science",
-            "graduated": "July 2018",
+            "school": "Taylor's University, Malaysia.",
+            "degree": "Bachelor's Degree, Computer Science (Hons)",
+            "graduated": "July 2023",
             "description": "Graduated with First Class Honours"
         }],
         "work": [{
-            "company": "Scandicsoft",
-            "title": "Software engineer",
-            "years": "Jan 2018 - Present",
-            "description": "Developing some userfriendly and best software."
-        }],
-        "skillssectiontitle":"Motivated by the Desire to achieve Success",
-        "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
+            "company": "Kambyan Network",
+            "title": "Junior Data Engineer",
+            "years": "Aug 2022 - Jun 2023",
+            "description": "Developing & Maintaining Data Architecture (ETL)."
+        
+            
+        },
+        {
+            "company": "Mashag Technology",
+            "title": "Data Engineer Freelance",
+            "years": "Nov 2022 - Present",
+            "description": "Preparing data for Machine Learning Model."
+        }
+        ],
+        "skillssectiontitle":"Passionate about Making a Data-Driven Impact",
+        "skillssectiondescription":"Driven by a deep passion for data science, I strive to make a meaningful impact. With a strong foundation in statistical analysis, machine learning, and data visualization, I am dedicated to uncovering insights and driving informed decisions. Skilled in Python, Excel, Tableau, Spark, SQL and Django & Vue, I am adept at handling and analyzing complex datasets. Let's collaborate to unlock the power of data and create actionable solutions that drive success. ",
         "skills": [{
-                "name": "Php",
-                "level": "90%"
+                "name": "SQL",
+                "level": "⭐️⭐️⭐️"
             },
             {
                 "name": "Python",
-                "level": "60%"
+                "level": "⭐️⭐️⭐️"
             },
             {
-                "name": "Vue",
-                "level": "70%"
+                "name": "Statistic",
+                "level": "⭐️⭐️"
             },
             {
-                "name": "React",
-                "level": "50%"
+                "name": "Django & Vue",
+                "level": "⭐️⭐️"
             },
             {
-                "name": "Web Development",
-                "level": "95%"
+                "name": "Tableau",
+                "level": "⭐️⭐️"
+            },
+            {
+                "name": "GCP",
+                "level": "⭐️"
+            },
+            {
+                "name": "Excel",
+                "level": "⭐️"
+            },
+            {
+                "name": "Apache Spark",
+                "level": "⭐️"
             }
         ]
     },
     "portfolio": {
         "projects": [{
                 "no":"01",
-                "title": "RMS with AR",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+                "title": "Udemy Course Enrollment Dashboard",
+                "description": "A dynamic dashboard was created by integrating Google Search data and a Kaggle dataset to extract valuable information regarding course attendance and content demand on the Udemy course hosting platform."
             },
             {
                 "no":"02",
-                "title": "Prothom alo clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+                "title": "Company X Loan Risk Prediction",
+                "description": "In collaboration with a fintech partner, we developed a Python-based loan risk predictive model. Analyzing a large dataset, we built a precise linear regression model with a 72% accuracy rate, adopted for effective risk management."
             },
             {
                 "no":"03",
-                "title": "Chaldal Clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+                "title": "Churn Prediction in Massive Open Online Course Enrollment",
+                "description": "Employing multivariable logistic regression, I crafted four models to assess the likelihood of churn among MOOC students, a group known for their historically documented limited dedication to educational offerings."
             }
         ]
     },
     "testimonials": {
         "testimonials": [{
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "John wilson",
-                "clientaddress": "Seattle, Washington"
+                "text": "Richie is an exceptional team player and dedicated data scientist who consistently seeks solutions, embraces challenges, and adapts his work based on feedback, making him an invaluable asset as a data science intern; his unwavering commitment, strong skill set, and passion for excellence will undoubtedly contribute to his success in any team.",
+                "clientname": "Ismail AL.Mahdy",
+                "clientaddress": "Tech Consultant - Mashag Technology"
             },
             {
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "David haris",
-                "clientaddress": "London, England"
+                "text": "Having worked with him at The Kambyan Network and Mashag Technology, I've witnessed his exceptional growth and dedication. As a self-taught Data Engineer, he's quick learning, hard work, and positive attitude have made him an invaluable asset. With his strong skill set, adaptability, and unwavering passion for excellence, He is destined for success in any full-time role he pursues.",
+                "clientname": "Ali Abdullatif Alrabeei",
+                "clientaddress": "CFO - Mashag Technology"
             }
         ]
     },
@@ -140,38 +152,30 @@
         "services": [
             {
                 "no": "01",
-                "title": "UI/UX Design",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "title": "Data Scientist",
+                "description": "Apply statistical and machine learning techniques to analyze and interpret complex datasets, Develop predictive models and algorithms to solve business problems, and Extract insights and patterns from data to drive informed decision-making"
             },
             {
                 "no": "02",
-                "title": "Web Design",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "title": "Data Analyst ",
+                "description": "Collect, clean, and preprocess data for analysis, Perform exploratory data analysis to uncover patterns and trends,Create reports, visualizations, and dashboards to present data insights "
             },
             {
                 "no": "03",
-                "title": "Web Development",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set."
+                "title": "Data Engineer",
+                "description": "Develop and maintain data pipelines and infrastructure, Design and optimize databases for storage and retrieval of large-scale datasets, and Implement data processing frameworks and tools"
             }
         ]
     },
     "awwards": {
         "awwards": [
             {
-                "title": "Website of the day",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "title": "Google - Data Analytic Profesional Certificate",
+                "description": "The Google Data Analytics Professional Certificate taught me essential skills in data collection, cleaning, analysis, and visualization. With hands-on experience using tools like SQL and Tableau, I am now prepared to pursue a career in data analysis, applying statistical concepts and making data-driven decisions."
             },
             {
-                "title": "Awards Site Of The Day",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
-            },
-            {
-                "title": "Honorable mention award",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
-            },
-            {
-                "title": "Designer of the Company",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "title": "CADS - Advance Python for Analaytic",
+                "description": "The  program provided me with advanced Python skills for data analysis. I learned techniques for data manipulation, statistical analysis, machine learning, and data visualization. Through hands-on projects, I gained practical experience in applying these skills to real-world datasets. This program has equipped me to tackle complex data analysis tasks and derive meaningful insights using Python."
             }
         ]
     }

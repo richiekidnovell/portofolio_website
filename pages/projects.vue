@@ -19,7 +19,7 @@
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Projects list</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">I have done lots of project for my client.</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">My own Personal Project.</h3>
             <div class="row">
                 
                     
@@ -61,7 +61,7 @@
     </div>
     <div class="img-one content-mid">
         <center>
-        <h3 class="title-big"> Call me right now </h3><br>
+        <h3 class="title-big"> Contact Me </h3><br>
         <a  href="" class="btn btn-style btn-primary">{{data.main.phone}}</a>
          
         </center>
