@@ -1,4 +1,7 @@
 export default {
+	router: {
+  mode: 'hash'
+},
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
